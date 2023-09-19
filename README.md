@@ -19,4 +19,4 @@ it into "resume_folder" variable.
 
 
 ## Screenshot of result:
-![Screenshot of result](https://github.com/imSuvankar/Resume-to-Job-Matcher/blob/master/screenshots/Screenshot%20(1080).png)
+![Screenshot of result](https://github.com/imSuvankar/Resume-to-Job-Matcher/blob/master/screenshots/Screenshot%20(1086).png)
